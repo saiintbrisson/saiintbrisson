@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**SaiintBrisson/SaiintBrisson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm Luiz (he/him), 17 years old, programming enthusiast and hobbyist photographer.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+
+I've previously fiddled around with lots of languages but my favorite was Java (because Minecraft)... until I met Rust.  
+
+Rust has been my main language for the past year or so, it's beautifully designed and well thought. It has enchanted me with its features and versatility. A passion for networks and critical systems capable of handling high data throughput grew on me last year, since then, I've been mainly studying tools and techniques to improve performance and how to apply pre-optimizations when they make sense.
+
+### Knowledge
+
+* Languages: I'm most familiar with Rust, Java, Kotlin, JavaScript, and Go.
+* Databases: I have experience with PostgreSQL, MySQL, MongoDB and Redis.
+* Hosting solutions: AWS and GCP.
+* Container runtime: Docker, Containerd, Vagrant, and Kubernetes.
+* CI/CD: Github Actions, and TravisCI
