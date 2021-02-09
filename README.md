@@ -1,4 +1,4 @@
-# Hi there 👋
+# hey there 👋
 ![twitter]
 
 ## Introduction
