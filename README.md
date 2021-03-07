@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm Luiz (he/him), 17 years old, programming enthusiast an
 
 I've previously fiddled around with lots of languages but my favorite was Java (mainly because of Minecraft), until I met Rust.
 
-Rust has been my main language for the past year or so, it's beautifully designed and well thought. It has enchanted me with its features and versatility. Throughout the last year, I developed a special interest in networks, distributed systems, and systems capable of handling high data throughput in general. I am currently studying memory usage hygiene, and performance improvements by applying optimizations when they make sense.
+Rust has been my main language for the past year or so, it's beautifully designed and well thought. It has enchanted me with its features and versatility. Throughout the last year, I developed a special interest in networks, distributed systems, and services with high throughput. I am currently studying memory usage hygiene, and performance improvements by applying optimizations when they make sense.
 
 ### Knowledge
 
