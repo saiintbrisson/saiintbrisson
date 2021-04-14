@@ -13,7 +13,7 @@ Rust has been my main language for the past year or so, it's beautifully designe
 
 ### Knowledge
 
-* Languages: I'm most familiar with Rust, Java, Kotlin, JavaScript, and Go.
+* Languages: I'm most familiar with Rust, Java, Kotlin, JavaScript (TypeScript), and Go.
 * Databases: I have experience with PostgreSQL, MySQL, MongoDB and Redis.
 * Hosting solutions: AWS and GCP.
 * Container runtime: Docker, Containerd, Vagrant, and Kubernetes.
