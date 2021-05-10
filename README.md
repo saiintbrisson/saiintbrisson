@@ -21,8 +21,12 @@ Rust has been my main language for the past year or so, it's beautifully designe
 
 [![github-stats]](https://github.com/SaiintBrisson)
 
+
+![views]
+
 <!--Links-->
 
 [twitter]: https://img.shields.io/twitter/follow/saiintbrisson?color=blue&label=Twitter&style=for-the-badge
 [github-stats]: https://github-readme-stats.vercel.app/api?username=SaiintBrisson
 [github]: https://github.com/SaiintBrisson
+[views]: https://komarev.com/ghpvc/?username=SaiintBrisson
