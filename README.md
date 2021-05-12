@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm Luiz (he/him), 17 years old, programming enthusiast an
 
 ## Interests
 
-I'm learning Rust and enjoying it a lot. 
+Currently learning Rust and enjoying it a lot 🦀. 
 
 Throughout the last year, I developed a special interest in networks, distributed systems, and performant/reliable services. I am currently studying performant and safe code hygiene. I enjoy solving puzzles, mainly when working with distributed systems.
 
