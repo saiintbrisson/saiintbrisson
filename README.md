@@ -10,7 +10,7 @@ Throughout the last year, I developed a special interest in networks, distribute
 
 ## Tech interests
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=SaiintBrisson">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=SaiintBrisson&hide=stars,contribs&hide_rank=true&disable_animations=true&hide_title=true&count_private=true">
 
 * Languages: I'm most familiar with Rust, Java, Kotlin, JS/TS, and Go.
 * Databases: PostgreSQL, MySQL, MongoDB and Redis.
