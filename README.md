@@ -16,7 +16,7 @@ My main interests are working with networks and distributed systems. Being a ver
 * Databases: PostgreSQL, MySQL, MongoDB and Redis.
 * Hosting solutions: AWS, Oracle Cloud, and GCP.
 * Container stuff: Docker, Vagrant, and Kubernetes.
-* CI/CD: Github Actions, and TravisCI
+* CI/CD: Github Actions, TravisCI, and Jenkins.
 
 ![views]
 
