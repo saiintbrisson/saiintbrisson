@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm Luiz (he/him), 17 years old, programming enthusiast an
 
 ## Interests
 
-Currently learning Rust and enjoying it a lot 🦀. Using it to mostly build servers (of all kinds), specially using tokio + actix.
+Currently learning Rust and enjoying it a lot 🦀. I like building TCP servers and implementing protocols (lazily working on an SSH server), and other network related stuff.
 
 My main interests are working with networks and distributed systems. Being a very curious person, I like to understand how fast & reliable services are designed and work, so I spend a lot of time researching and studying everything from scientific papers, articles (_sometimes of dubious quality_), to large open-source codebases. Another passion of mine is to contribute to open-source projects.
 
