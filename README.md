@@ -1,21 +1,22 @@
-# hey there 👋
+## hey there 👋
 
 Welcome to my GitHub! I'm Luiz (he/him), 17 years old, programming enthusiast and hobbyist photographer.  
 
-## Interests
+### Interests
 
-Currently learning Rust and enjoying it a lot 🦀. I like building TCP servers and implementing protocols (lazily working on an SSH server), and other network related stuff.
+I'm always learning something new! Looking forward to working with Rust 🦀 professionally, my all-time favorite language (subject to change, of course). I enjoy building servers, implementing protocols, messing with sockets, and designing systems. 
 
-My main interests are working with networks and distributed systems. Being a very curious person, I like to understand how fast & reliable services are designed and work, so I spend a lot of time researching and studying everything from scientific papers, articles (_sometimes of dubious quality_), to large open-source codebases. Another passion of mine is to contribute to open-source projects.
+My main interests are networks, distributed systems, and DevOps. Being a very curious person, I like to understand how fast & reliable services are designed and work, thus, researching a lot and studying most of my time, reading whitepapers, articles (_sometimes of dubious quality_), open-source codebases, etc. I'm also an open-source movement enthusiast.
 
-## Tech interests
+### Tech interests
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=SaiintBrisson&hide=stars,contribs&hide_rank=true&disable_animations=true&hide_title=true&count_private=true">
 
 * Languages: I'm most familiar with Rust, Java, and Kotlin (Go is on my roadmap).
-* Databases: PostgreSQL, MySQL, MongoDB and Redis.
+* Databases: PostgreSQL, Redis, MySQL, and MongoDB.
 * Hosting solutions: AWS, Oracle Cloud, and GCP.
-* Container stuff: Docker, Vagrant, and Kubernetes.
+* DevOps: Nomad, K8s, Vault. (Next: Terraform and Vagrant)
+* Container: Docker/Podman, CRI-O, and the OCI spec.
 * CI/CD: Github Actions, TravisCI, and Jenkins.
 
 ![views]
