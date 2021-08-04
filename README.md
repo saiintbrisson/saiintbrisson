@@ -15,9 +15,9 @@ My main interests are networks, distributed systems, and DevOps. Being a very cu
 * Languages: I'm most familiar with Rust, Java, and Kotlin (Go is on my roadmap).
 * Databases: PostgreSQL, Redis, MySQL, and MongoDB.
 * Hosting solutions: AWS, Oracle Cloud, and GCP.
-* DevOps: Nomad, K8s, Vault. (Next: Terraform and Vagrant)
+* DevOps: K8s and the HashiCorp stack (Nomad, Consul, Vault, etc).
 * Container: Docker/Podman, CRI-O, and the OCI spec.
-* CI/CD: Github Actions, TravisCI, and Jenkins.
+* CI/CD: Github Actions and Jenkins.
 
 ![views]
 
