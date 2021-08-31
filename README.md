@@ -12,12 +12,11 @@ My main interests are networks, distributed systems, and DevOps. Being a very cu
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=SaiintBrisson&hide=stars,contribs&hide_rank=true&disable_animations=true&hide_title=true&count_private=true">
 
-* Languages: I'm most familiar with Rust, Java, and Kotlin (Go is on my roadmap).
-* Databases: PostgreSQL, Redis, MySQL, and MongoDB.
-* Hosting solutions: AWS, Oracle Cloud, and GCP.
+* Languages: Rust, Kotlin, Go, and Haskell (also proficient in Java).
+* Databases: PostgreSQL, Redis, and MongoDB.
+* Cloud: Mainly AWS and Red Hat products, but I'm interested in almost everything CNCF touches.
 * DevOps: K8s and the HashiCorp stack (Nomad, Consul, Vault, etc).
-* Container: Docker/Podman, CRI-O, and the OCI spec.
-* CI/CD: Github Actions and Jenkins.
+* Container: anything involving the OCI spec.
 
 ![views]
 
