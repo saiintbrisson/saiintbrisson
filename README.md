@@ -18,8 +18,6 @@ My main interests are networks, distributed systems (consensus algorithms fascin
 * DevOps: K8s and the HashiCorp stack (Nomad, Consul, Vault, etc).
 * Container: anything involving the OCI spec.
 
-![views]
-
 <!--Links-->
 
 [twitter]: https://img.shields.io/twitter/follow/saiintbrisson?color=blue&label=Twitter&style=for-the-badge
