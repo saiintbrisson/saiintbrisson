@@ -10,8 +10,6 @@ My main interests are networks, distributed systems (consensus algorithms fascin
 
 #### Tech interests
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=SaiintBrisson&hide=stars,contribs&hide_rank=true&disable_animations=true&hide_title=true&count_private=true">
-
 * Languages: Rust, Kotlin, Go, and Haskell (also proficient in Java).
 * Databases: TiDB (TiKV), Cassandra, Postgres, and Cockroach.
 * Cloud: Mainly AWS and Red Hat products, but I'm interested in almost everything CNCF touches.
