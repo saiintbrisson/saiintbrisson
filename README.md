@@ -1,6 +1,6 @@
 ## hey there 👋
 
-Welcome to my GitHub! I'm Luiz (he/him), 17 years old, programming enthusiast and hobbyist photographer.  
+Welcome to my GitHub! I'm Luiz (he/him), 18 years old, programming enthusiast and hobbyist photographer.  
 
 ### A brief introduction
 
