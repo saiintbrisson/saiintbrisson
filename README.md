@@ -15,7 +15,7 @@ My main interests are networks, distributed systems (consensus algorithms fascin
 * Cloud: Mainly AWS and Red Hat products, but I'm interested in almost everything CNCF touches.
 * DevOps: Container runtimes in general, K8s and the HashiCorp stack (Nomad, Consul, Vault, etc).
 
-I also like event-driven systems and message queues (my favorties being Kafka and ZeroMQ).
+I also like event-driven systems and message queues (my favorites being Kafka and ZeroMQ).
 
 <!--Links-->
 
