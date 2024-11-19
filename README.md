@@ -1,7 +1,7 @@
 ## Hey there 👋
 
-I'm Luiz (he/him), a self-taught developer and hobbyist photographer. Most of my spare time is allocated to reading and researching, I'm a really curious person!
+I'm Luiz (he/him), a self-taught developer. You will find me studying all sorts of different networking subjects or contributing to many different projects, from eBPF tools (like BCC), to io-uring libraries. I like building things from scratch, that's how I learn.
 
-My interests are microkernels, distributed systems, and Rust, which has been my favorite language to work with for the last year or so. Although I have little knowledge about most stuff, I've worked on tons of small and diverse projects and played around with lots of cool tools in the past, and I'm eager to do & learn more!
+I've implemented about a dozen load balancers, SSH servers, eBPF VMs, Bayer demosaic algorithms for my raws, the craziest orchestration mechanisms for Minecraft servers, lots of CRDT structures, and bootloaders and microkernels. As you can see, my interests are all very well defined.
 
-I also like connecting to new people, so feel free to hmu :)
+I take pictures. And listen to music, all the time. But I don't play anything, be it instruments or games, I'm terrible in all of them. I also like connecting to new people, so feel free to hmu :)
